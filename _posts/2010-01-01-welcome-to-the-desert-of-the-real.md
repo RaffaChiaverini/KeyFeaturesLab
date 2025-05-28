@@ -6,10 +6,8 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  C:\Users\t-raffaelec\OneDrive - Microsoft\Not Useful\Documents\GitHub\KeyFeaturesLab\assets\images\WelcomeImage.jpg
-optimized_image: >-
-  C:\Users\t-raffaelec\OneDrive - Microsoft\Not Useful\Documents\GitHub\KeyFeaturesLab\assets\images\WelcomeImage.jpg
+image: /assets/images/WelcomeImage.jpg
+optimized_image: /assets/images/WelcomeImage.jpg
 category: blog
 tags:
   - welcome
