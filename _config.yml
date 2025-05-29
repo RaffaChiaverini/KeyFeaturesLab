@@ -1,8 +1,7 @@
 # Site Settings
 name: KeyFeaturesLab
 title: Raffaele Chiaverini's own cybersecurity related blog | Hope you enjoy it!
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: A blog about cybersecurity, pentesting, and more...  
 tags:
   - blog
   - template
