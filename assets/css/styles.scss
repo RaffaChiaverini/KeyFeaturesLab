@@ -1,3 +1,52 @@
 ---
 ---
 @import "jekflix";
+
+/* Rendi la foto rotonda e aggiungi il tooltip */
+// ...existing code...
+.profile-link {
+  position: relative;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.profile-pic {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #eee;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+}
+
+.profile-pic:hover {
+  box-shadow: 0 0 0 3px #0078d7;
+}
+
+.profile-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  width: 90px;
+  background: #222;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 10;
+  top: 110%; /* Cambiato da bottom: 110% */
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.2s;
+  font-size: 0.9em;
+  pointer-events: none;
+}
+
+.profile-link:hover .profile-tooltip,
+.profile-link:focus .profile-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+// ...existing code...
