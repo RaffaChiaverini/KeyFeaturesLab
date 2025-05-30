@@ -6,8 +6,8 @@ subtitle: 'A journey from UCLA to Politecnico di Milano — and into the world o
 description: >-
   Join me as I explore the world of cybersecurity, share personal projects, ideas,
   and the curious path that brought me here.
-image: assets\images\WelcomeImage.jpg
-optimized_image: assets\images\WelcomeImage.jpg
+image: assets\images\KeyDeck Template.png
+optimized_image: assets\images\KeyDeck Template.png
 category: blog
 tags:
   - welcome
