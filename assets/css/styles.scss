@@ -49,4 +49,11 @@ header .profile-pic:hover {
   visibility: visible;
   opacity: 1;
 }
-// ...existing code...
+
+.icon-social {
+  width: 64px;
+  height: 64px;
+  vertical-align: middle;
+  display: inline-block;
+  object-fit: contain;
+}

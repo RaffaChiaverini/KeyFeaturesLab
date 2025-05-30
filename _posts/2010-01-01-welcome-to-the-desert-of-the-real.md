@@ -1,20 +1,20 @@
 ---
 date: 2025-05-28 22:30:00
 layout: post
-title: Welcome to my cybersecurity blog 
+title: Welcome to my cybersecurity blog! 
 subtitle: 'A journey from UCLA to Politecnico di Milano — and into the world of security.'
 description: >-
   Join me as I explore the world of cybersecurity, share personal projects, ideas,
   and the curious path that brought me here.
-image: /assets/images/KeyDeck Template.png
-optimized_image: /assets/images/KeyDeck Template.png
+image: /assets/images/KeyDeckTemplate.png
+optimized_image: /assets/images/KeyDeckTemplate.png
 category: blog
 tags:
   - welcome
   - cybersecurity
   - blog
   - studentlife
-author: RaffaChiaverini
+author: Raffaele Chiaverini
 paginate: true
 ---
 Hey there, and welcome to my blog!
@@ -29,6 +29,9 @@ I’m currently a student at **Politecnico di Milano**, where I studied **Comput
 
 ### What to expect from this blog?
 
+![Welcome image](/assets/images/KeyFeaturesLab logo.png "Welcome image")
+
+This blog is a blend of my academic journey, personal projects, and reflections on the cybersecurity landscape. Here’s what you can look forward to:
 * Custom security projects and ideas  
 * Thoughts on emerging technologies  
 * Opinions on security trends and real-world breaches  
